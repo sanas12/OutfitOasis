@@ -32,13 +32,15 @@ Product image, price, and available sizes.
 Detailed description and user reviews.
 Option to Add to Cart.
 A section to view similar products.
-Technology Stack
+
+## Technology Stack
 Frontend: React
 State Management: React Context API
 CSS: Custom styles for all components
 Deployment: Netlify
-Deployment
-The application has been deployed on Netlify. You can access the live version of the project here: Outfit Oasis.
 
-The project is hosted on GitHub: GitHub Repository.
+## Deployment
+# The application has been deployed on Netlify. You can access the live version of the project here: "https://outfitoasis.netlify.app/"
+
+# The project is hosted on GitHub: "GitHub Repository".
 
