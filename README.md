@@ -4,12 +4,12 @@ Outfit Oasis is a fully responsive shopping application built using React, desig
 Features
 1. Navigation
 A fully functional Nav Bar that includes the following links:
-Shop
-Men
-Women
-Kids
-Cart
-Login
+-Shop
+-Men
+-Women
+-Kids
+-Cart
+-Login
 2. Shop Component
 Includes a banner showcasing promotions.
 Popular Section: Highlights popular products in the Women category.
@@ -34,13 +34,13 @@ Option to Add to Cart.
 A section to view similar products.
 
 ## Technology Stack
-Frontend: React
-State Management: React Context API
-CSS: Custom styles for all components
-Deployment: Netlify
+-Frontend: React
+-State Management: React Context API
+-CSS: Custom styles for all components
+-Deployment: Netlify
 
 ## Deployment
-# The application has been deployed on Netlify. You can access the live version of the project here: "https://outfitoasis.netlify.app/"
+- The application has been deployed on Netlify. You can access the live version of the project here: "https://outfitoasis.netlify.app/"
 
 # The project is hosted on GitHub: "GitHub Repository".
 
