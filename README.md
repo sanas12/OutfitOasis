@@ -33,6 +33,8 @@ Detailed description and user reviews.
 Option to Add to Cart.
 A section to view similar products.
 
+##Added Responsive layout using Media queries (@media (max-width: 767px)
+
 ## Technology Stack
 -Frontend: React
 -State Management: React Context API
